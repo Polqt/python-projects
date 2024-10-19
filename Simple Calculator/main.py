@@ -41,7 +41,6 @@ def calculator():
       first_number = answer
     elif should_continue == 'n':
       calculation = False
-      calculator()
 
 calculator()
       
